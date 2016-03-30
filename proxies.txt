@@ -1,2 +1,2 @@
-#http://neon-victory-123920.appspot.com
-http://localhost:8080
+http://neon-victory-123920.appspot.com
+#http://localhost:8080
